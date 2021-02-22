@@ -20,7 +20,7 @@ a {
 }
 
 .intro .me {
-  color: yellow;
+  color: rgb(255, 255, 0);
   position: relative;
   -webkit-animation: heading;
   animation: heading;
